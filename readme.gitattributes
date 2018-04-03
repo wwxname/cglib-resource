@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+
+
+eclipse--导入maven项目----选择wwx-cglib-parent---即可
+
+环境自行配置
